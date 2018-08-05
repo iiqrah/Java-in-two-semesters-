@@ -14,7 +14,7 @@
 
 ### Software: 
   
-  - The name given to a perogram or a set of programs that achieve a task.
+   - The name given to a perogram or a set of programs that achieve a task.
 
 ### Types of Software:
 
@@ -43,17 +43,27 @@
 
 ### Proramming:
     
-    - The task of writing the set of instructions/programs/ softwares 
+   - The task of writing the set of instructions/programs/ softwares 
 
 ### Programming Language: 
 
-    - Specific language with proper syntax for the computer to understand these set of instructions
+   - Specific language with proper syntax for the computer to understand these set of instructions
 
 ### Types of Programming Language:
 
   - Object Oriented : Java, Python, C++ etc
   - Procedural : C, COBOL, BASIC etc 
   - Functional : Haskell, Scala etc 
+  
+### Compiling:
+
+  - Computers only understand binary instruction known as machine code
+  - Programs written in programming languages are not in binary, known as program/source code
+  - The process of convertion source code into machine code with the help of a system software called compiler. 
+  
+### Process of Compiling: 
+
+  Program Source code > Compiler > Machine code > Use Program
      
     
 
