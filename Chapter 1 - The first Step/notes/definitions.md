@@ -1,6 +1,8 @@
 # Chapter 1: The First Step
 
-## Notes
+## Date : 5/08/2018
+
+## Notes - Definitions
 
 ### Programs: 
 
