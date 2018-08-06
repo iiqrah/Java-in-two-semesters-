@@ -51,6 +51,20 @@
          <code> command: java program </code>
 
      5. Command will produce machine code that the computer understands and runs. 
+     
+  ### User interface
+  
+  - The screen that provides output from your program and prompts the user to enter information 
+  - They are of two types: 
+  
+      | Text Based    | Graphics Based |
+      | ------------- | -------------  |
+      | display simply text  | display text, puctures, shapes etc  |
+      | keyboard for input  | mouse and keyboard for input  |
+      | run in B&W screen | run in colourful screen  |
+      | known as console applications | known as GUI  |
+      
+      
     
     
 
