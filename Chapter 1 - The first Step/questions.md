@@ -73,21 +73,71 @@
   
   ### 7. Write program with following errors: 
   
-  - class does not have a name
-  - curly brace missing
-  - semi colon missing
-  - literal string not enclosed in quotation marks
-  - S not capatalized in System.out.println
+  - class does not have a name : "Syntax error on token "class", Identifier expected after this token"
+  - curly brace missing: "Syntax error on token "class", Identifier expected after this token"
+  - semi colon missing : "Syntax error, insert ";" to complete BlockStatements"
+  - literal string not enclosed in quotation marks: "Syntax error on token(s), misplaced construct(s)"
+  - S not capatalized in System.out.println: "system cannot be resolved"
   
   ```
   public class
   {
     public static void main(String[] args)
     {
-      system.out.println (program has erros)
+      system.out.println (program errors)
     }
     
  ```
+ 
+  ### 8. Write program 
+  
+  - to display name, address, number on separate lines
+  
+  ```
+  public class Personal_Info
+  {
+    public static void main(String[] args)
+    {
+      System.out.println ("Name: Iqrah Nadeem");
+      System.out.println ("Address: Manchester, UK");
+      System.out.print ("Number: 1234567890");
+    }
+  }
+  ```
+  
+  
+  - include blank line between address and number 
+  
+  ```
+  public class Personal_Info
+  {
+    public static void main(String[] args)
+    {
+      System.out.println ("Name: Iqrah Nadeem");
+      System.out.println ("Address: Manchester, UK");
+      System.out.println ("");
+      System.out.print ("Number: 1234567890");
+    }
+  }
+  ```
+  
+  
+  - asterisks intials 
+  
+  ```
+  public class Initials
+  {
+    public static void main(String[] args)
+    {
+    System.out.println ("*****	  *      *");
+	  System.out.println ("  *		  * *    *");
+	  System.out.println ("  *		  *  *   *");
+	  System.out.println ("  *		  *   *  *");
+	  System.out.println ("  *		  *    * *");
+	  System.out.println ("*****	  *      *");
+    }
+  }
+  ```
   
 
   
