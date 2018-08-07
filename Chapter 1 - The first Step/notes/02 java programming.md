@@ -18,7 +18,7 @@
     - Source Code > Java Compiler > Java Byte Code > JVM on Mac > Machine Code for Mac > Use Program
    
   - Other languages, machine code is sold as software, it is specific to the computer
-  - Java, Java Byte code is sold is sold as software, it is universal 
+  - Java, Java Byte code is sold as software, it is universal 
   
 ### Java Development Kit (JDK)
 
