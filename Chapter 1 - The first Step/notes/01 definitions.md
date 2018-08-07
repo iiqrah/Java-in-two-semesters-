@@ -68,6 +68,7 @@
   Program Source code > Compiler > Machine code > Use Program
      
      
- ## Q? Is there a way to reverse this process andconvert machine code into source code? 
+ ## Q? 
+ ## Is there a way to reverse this process and convert machine code into source code? 
     
 
