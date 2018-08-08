@@ -56,5 +56,33 @@
   int variable1, variable2;
   char variable3;
   ```
+
+### Assignment: 
+
+  - Putting/assigning values to the declared variables 
+  - With the help of an assignment operator " = "
+  - Two ways: 
+  
+  ```
+  int variable1;
+  variable1 = 10;
+  ```
+  
+  ```
+  char variable2 = 'I';
+  ```
+  
+  ### Constants: 
+
+  - named location where the value does not change after declaration. 
+  - declared same as variable with the addition of preceeding it with "final"
+  - convention to name constants in all CAPS
+  
+  ```
+  final double PI = 3.1416;
+  ```
+  
+  - variables are only declared once, however they can be assigned value any number of times in a program. 
+  - constants are only declared and assigned a value once, the value cannot be changed later. 
       
 
