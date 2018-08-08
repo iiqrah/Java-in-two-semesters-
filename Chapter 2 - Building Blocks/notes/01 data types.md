@@ -46,7 +46,7 @@
  
   ```
   int variable1;
-  int variable 2;
+  int variable2;
   char variable3;
   ```
  
