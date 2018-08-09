@@ -1,8 +1,7 @@
+
 # Chapter 2: Building Blocks
 
 ## Date : 8/08/2018
-
-## Notes - Data Types
 
 ### Data types: 
 
@@ -84,5 +83,4 @@
   
   - variables are only declared once, however they can be assigned value any number of times in a program. 
   - constants are only declared and assigned a value once, the value cannot be changed later. 
-      
 

@@ -1,8 +1,9 @@
 # Chapter 2: Building Blocks
 
-## Date : 7/08/2018
+## Date : 9/08/2018
 
 ## Self-test Questions
+
 
 ### 1. Choose apt data type for the following: 
 
@@ -287,13 +288,4 @@ public class Assignment {
  ```
    
   
-  
-
-
-
-
- 
-
-
- 
  
