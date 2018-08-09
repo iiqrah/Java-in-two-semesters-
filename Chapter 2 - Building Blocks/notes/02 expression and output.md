@@ -73,6 +73,6 @@
   ### Program Design:
   
   - Designing: how to build, pseudocode. 
-  - Implementation: buil.
+  - Implementation: build.
    
   
