@@ -46,8 +46,8 @@
    import java.util.*
    ```
    
-   Package > Classes > Methods
-   Util > Scanner > Input methods (nextInt(), nextDouble() etc)
+   - Package > Classes > Methods
+   - Util > Scanner > Input methods (nextInt(), nextDouble() etc)
    
    
    ```
