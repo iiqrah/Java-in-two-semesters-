@@ -7,7 +7,7 @@
 
 ```
 
-public class helloHackers
+public class HelloHackers
 {
   public static void main (String[] args)
   {
@@ -43,18 +43,18 @@ System.out.print ("Hello Hackers!");
 ### Header
 
 ```
-public class helloHackers
+public class HelloHackers
 ```
 
 #### public
 
   - makes the class accesible to the outside world/other classes
-  - name the file similar to the name of the public class, here file is called helloHackers.java
+  - name the file similar to the name of the public class, here file is called HelloHackers.java
 
-#### class helloHackers
+#### class HelloHackers
 
 - OOP languages require the program to be written in separate units called classes
-- Always give a name to the class, here it is called helloHackers
+- Always give a name to the class, here it is called HelloHackers
 - This simple program, we created just one class however it interacts with other built-in classes
 
 - Naming class conventions: 
@@ -62,6 +62,7 @@ public class helloHackers
   - does not have space
   - does not start with mathematical operators
   - starts with alphabet, underscore _ , or dollar sign $
+  - starts with a capital letter 
   
 ### Main method
 
